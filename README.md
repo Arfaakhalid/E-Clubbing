@@ -46,29 +46,29 @@ _"Not just another typical boring messenger — this is a digital clubbing unive
 
 ## 📸 Screenshots
 
-| Login | Dashboard | Chatroom | GIF Search |
-|-------|-----------|----------|------------|
-| ![](screenshots/Screenshot%20(325).png) | ![](screenshots/Screenshot%20(326).png) | ![](screenshots/Screenshot%20(327).png) | ![](screenshots/Screenshot%20(328).png) |
+| ---------------------- Preview ----------------------------- |
+|--------------------------------------------------------------|
+| ![](Screenshot%20(325).png) | ![](Screenshot%20(326).png) | ![](Screenshot%20(327).png) | ![](Screenshot%20(328).png) |
 
-| Real-Time Room | Custom Profile | Animated UI | Secure Auth |
-|----------------|----------------|-------------|-------------|
-| ![](screenshots/Screenshot%20(329).png) | ![](screenshots/Screenshot%20(330).png) | ![](screenshots/Screenshot%20(331).png) | ![](screenshots/Screenshot%20(332).png) |
+| ---------------------- Preview ----------------------------- |
+|--------------------------------------------------------------|
+| ![](Screenshot%20(329).png) | ![](Screenshot%20(330).png) | ![](Screenshot%20(331).png) | ![](Screenshot%20(332).png) |
 
 | More Previews |
 |---------------|
-| ![](screenshots/Screenshot%20(333).png) |
-| ![](screenshots/Screenshot%20(334).png) |
-| ![](screenshots/Screenshot%20(335).png) |
-| ![](screenshots/Screenshot%20(336).png) |
-| ![](screenshots/Screenshot%20(337).png) |
-| ![](screenshots/Screenshot%20(338).png) |
-| ![](screenshots/Screenshot%20(339).png) |
-| ![](screenshots/Screenshot%20(340).png) |
-| ![](screenshots/Screenshot%20(341).png) |
-| ![](screenshots/Screenshot%20(342).png) |
-| ![](screenshots/Screenshot%20(343).png) |
-| ![](screenshots/Screenshot%20(344).png) |
-| ![](screenshots/Screenshot%20(345).png) |
+| ![](Screenshot%20(333).png) |
+| ![](Screenshot%20(334).png) |
+| ![](Screenshot%20(335).png) |
+| ![](Screenshot%20(336).png) |
+| ![](Screenshot%20(337).png) |
+| ![](Screenshot%20(338).png) |
+| ![](Screenshot%20(339).png) |
+| ![](Screenshot%20(340).png) |
+| ![](Screenshot%20(341).png) |
+| ![](Screenshot%20(342).png) |
+| ![](Screenshot%20(343).png) |
+| ![](Screenshot%20(344).png) |
+| ![](Screenshot%20(345).png) |
 
 ---
 
